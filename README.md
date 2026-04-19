@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Ali 👋  
+Software Engineer but I currently foucus on Web Full-Stack with .NET 
 
-<!--
-**AliMohamedd/AliMohamedd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I build scalable systems  
+🔧 Tech: C++, C#, .NET, SQL  
+📍 Egypt, Cairo  
 
-Here are some ideas to get you started:
+## 🧠 What I'm Working On
+- Backend systems.
+- Database design and implementation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Featured Projects
+- Invasion-Of-The-Unknown – Desktop horror game.
+- Bank System – CLI system written by C++.  
+- [Project Name] – short description
+
+## 📫 Contact
+- Email: ali.yahya.softwareengineer@gmail.com
+- LinkedIn: [your link](https://www.linkedin.com/in/ali-yahya-2024-se)
