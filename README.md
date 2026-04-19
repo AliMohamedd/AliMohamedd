@@ -2,7 +2,6 @@ Hi, I'm Ali 👋
 C# Developer focused on backend systems
 
 🚀 I build scalable systems that meet business logic
-
 🔧 Tech: C++, C#, .NET, SQL  
 📍 Egypt, Cairo  
 
