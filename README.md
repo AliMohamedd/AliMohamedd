@@ -11,6 +11,8 @@ C# Developer focused on backend systems
 
 ## 🔥 Featured Projects
 - [Invasion-Of-The-Unknown](https://github.com/AliMohamedd/Invasion-Of-The-Unknown) – Desktop horror game.
+- [Bank-System-CLI](https://github.com/AliMohamedd/Bank-System-CLI) - bank system with CLI performing bank system basic operations.
+- [Applications-On-Windows-Forms](https://github.com/AliMohamedd/Applications-On-Windows-Forms) - simple applications using windows forms.
 
 
 ## 📫 Contact
