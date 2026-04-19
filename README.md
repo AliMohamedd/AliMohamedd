@@ -1,7 +1,7 @@
 Hi, I'm Ali 👋  
-Software Engineer but I currently foucus on Web Full-Stack with .NET 
+C# Developer focused on backend systems
 
-🚀 I build scalable systems  
+🚀 I build scalable systems that meet business logic 
 🔧 Tech: C++, C#, .NET, SQL  
 📍 Egypt, Cairo  
 
@@ -11,7 +11,7 @@ Software Engineer but I currently foucus on Web Full-Stack with .NET
 
 ## 🔥 Featured Projects
 - [Invasion-Of-The-Unknown](https://github.com/AliMohamedd/Invasion-Of-The-Unknown) – Desktop horror game.
-- Bank System – CLI system written by C++.  
+
 
 ## 📫 Contact
 - Email: ali.yahya.softwareengineer@gmail.com
