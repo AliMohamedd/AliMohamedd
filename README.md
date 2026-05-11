@@ -5,7 +5,7 @@ Full Stack Developer | .NET Developer | Software Engineer
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1FF71D&background=FF288800&width=435&lines=Problem+Slover;Full-Stack+Developer" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1FF71D&background=FF288800&width=435&lines=Problem+Slover;&center=true&width=500&height=45" alt="Typing SVG">
 </p>
 
 <div align="center">
@@ -40,14 +40,11 @@ Full Stack Developer | .NET Developer | Software Engineer
 </div>
 
 ---
-## 🔥 Featured Projects
+<h1 align="center">🔥 Featured Projects</h1>
+
 - [Invasion-Of-The-Unknown](https://github.com/AliMohamedd/Invasion-Of-The-Unknown) – Desktop horror game.
 - [Bank-System-CLI](https://github.com/AliMohamedd/Bank-System-CLI) - bank system with CLI performing bank system basic operations.
 - [Applications-On-Windows-Forms](https://github.com/AliMohamedd/Applications-On-Windows-Forms) - simple applications using windows forms.
-
----
-
----
 <!--![](https://github-readme-stats.vercel.app/api?username=ahmedabdelal7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedabdela17&show_icons=true&theme=dark)<br/>-->
 
@@ -59,14 +56,13 @@ Full Stack Developer | .NET Developer | Software Engineer
   <img src="https://streak-stats.demolab.com?user=ahmedabdelal7%20&theme=vitesse&border_radius=4.6&date_format=j%20M%5B%20Y%5D"/>
 </p>-->
 
----
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/ahmedabdelal7?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
-  <img src="https://komarev.com/ghpvc/?username=ahmedabdelal7&style=for-the-badge&color=1f6feb" />
-</p>
+<!--<p align="center">
+  <img src="https://img.shields.io/github/followers/AliMohamedd?label=Followers&style=for-the-badge&logo=github&color=brightgreen" />
+  <img src="https://komarev.com/ghpvc/?username=AliMohamedd&style=for-the-badge&color=brightgreen" />
+</p>-->
 
 ---
+
 <h2 align="center">Thanks for Visiting my GitHub Profile!</h2>
 
 ---
@@ -75,12 +71,10 @@ Full Stack Developer | .NET Developer | Software Engineer
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
 
----
 
 <!--<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="55%"/>
 </p>-->
-
 ---
 <div align="center">
   
